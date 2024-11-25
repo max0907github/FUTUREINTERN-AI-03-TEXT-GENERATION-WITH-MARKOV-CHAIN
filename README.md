@@ -1,5 +1,3 @@
-# TEXT-GENERATION-WITH-MARKOV-CHAIN
-
 # Text Generation with Markov Chains
 
 ## Overview
